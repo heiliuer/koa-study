@@ -1,0 +1,12 @@
+{
+  "name": "koa-demos1",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs.promised": "^3.0.0",
+    "koa": "^2.3.0",
+    "koa-body": "^2.3.0",
+    "koa-compose": "^4.0.0",
+    "koa-route": "^3.2.0",
+    "koa-static": "^4.0.1"
+  }
+}
