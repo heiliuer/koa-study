@@ -1,12 +1,16 @@
 {
-  "name": "koa-demos1",
+  "name": "koa-study",
   "version": "0.0.1",
   "dependencies": {
     "fs.promised": "^3.0.0",
     "koa": "^2.3.0",
+    "koa-basic-auth": "^2.0.0",
     "koa-body": "^2.3.0",
     "koa-compose": "^4.0.0",
+    "koa-csrf": "^3.0.6",
     "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1",
     "koa-static": "^4.0.1"
   }
 }
