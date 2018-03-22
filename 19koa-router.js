@@ -9,7 +9,7 @@ const index = ctx => {
     ctx.response.body = '<html><body><h2>hello</h2></body></html>'
 }
 
-router.get('/', index);
+router.get('/', index)
 
 app.use(router.routes()).use(router.allowedMethods());
 
